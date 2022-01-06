@@ -1,4 +1,4 @@
-# COMP20270 Object Oriented Programming in Python_Assignment
+# COMP20270 Object Oriented Programming in Python Assignment 1
 
 The aim of this project is to develop a system to manage a kitty for shared expences among a group of people. This project makes use of OOP in Python.
 
